@@ -7,8 +7,37 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddhartha0623/Leetcode/tree/master/0007-reverse-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Siddhartha0623/Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Hash Table
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
