@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Siddhartha0623/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
 ## Array
 |  |
 | ------- |
@@ -44,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
