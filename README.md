@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Siddhartha0623/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Siddhartha0623/Leetcode/tree/master/0012-integer-to-roman) |
+| [0443-string-compression](https://github.com/Siddhartha0623/Leetcode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Siddhartha0623/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddhartha0623/Leetcode/tree/master/0011-container-with-most-water) |
+| [0443-string-compression](https://github.com/Siddhartha0623/Leetcode/tree/master/0443-string-compression) |
 ## Matrix
 |  |
 | ------- |
