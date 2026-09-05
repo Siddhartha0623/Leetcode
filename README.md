@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Siddhartha0623/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Siddhartha0623/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Siddhartha0623/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 | [1260-shift-2d-grid](https://github.com/Siddhartha0623/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siddhartha0623/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Siddhartha0623/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 | [0443-string-compression](https://github.com/Siddhartha0623/Leetcode/tree/master/0443-string-compression) |
 ## Matrix
 |  |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Siddhartha0623/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 ## Bracket Sequences
 |  |
 | ------- |
