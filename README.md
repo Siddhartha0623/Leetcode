@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3870-count-commas-in-range](https://github.com/Siddhartha0623/Leetcode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
