@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Siddhartha0623/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Siddhartha0623/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Siddhartha0623/Leetcode/tree/master/0013-roman-to-integer) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha0623/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha0623/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -68,11 +70,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha0623/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha0623/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha0623/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
