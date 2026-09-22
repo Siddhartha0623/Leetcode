@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/Siddhartha0623/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddhartha0623/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha0623/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
