@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/Siddhartha0623/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Siddhartha0623/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddhartha0623/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddhartha0623/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Siddhartha0623/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Siddhartha0623/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Database
 |  |
