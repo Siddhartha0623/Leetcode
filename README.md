@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Siddhartha0623/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Siddhartha0623/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Siddhartha0623/Leetcode/tree/master/0013-roman-to-integer) |
+| [0342-power-of-four](https://github.com/Siddhartha0623/Leetcode/tree/master/0342-power-of-four) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Siddhartha0623/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Siddhartha0623/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0010-regular-expression-matching](https://github.com/Siddhartha0623/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Siddhartha0623/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Siddhartha0623/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Siddhartha0623/Leetcode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Siddhartha0623/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Siddhartha0623/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
 |  |
