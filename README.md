@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Siddhartha0623/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Siddhartha0623/Leetcode/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Siddhartha0623/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Siddhartha0623/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Siddhartha0623/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhartha0623/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Siddhartha0623/Leetcode/tree/master/0041-first-missing-positive) |
 | [1096-brace-expansion-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha0623/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Siddhartha0623/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
