@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Siddhartha0623/Leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Siddhartha0623/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Siddhartha0623/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/Siddhartha0623/Leetcode/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Siddhartha0623/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Siddhartha0623/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Siddhartha0623/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -274,4 +277,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
