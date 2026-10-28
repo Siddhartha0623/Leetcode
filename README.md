@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Siddhartha0623/Leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Siddhartha0623/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Siddhartha0623/Leetcode/tree/master/0162-find-peak-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/Siddhartha0623/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Siddhartha0623/Leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Siddhartha0623/Leetcode/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Siddhartha0623/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Trie
