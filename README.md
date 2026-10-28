@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Siddhartha0623/Leetcode/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/Siddhartha0623/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Siddhartha0623/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/Siddhartha0623/Leetcode/tree/master/0162-find-peak-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Siddhartha0623/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1260-shift-2d-grid](https://github.com/Siddhartha0623/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Siddhartha0623/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Siddhartha0623/Leetcode/tree/master/0162-find-peak-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Siddhartha0623/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Siddhartha0623/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Siddhartha0623/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
